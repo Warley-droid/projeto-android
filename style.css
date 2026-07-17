@@ -91,7 +91,6 @@ nav > a{
     padding:10px;
     font-weight: bold;
     transition-duration: 0.8s;
-    font-size: 0.7em;
 }
 
 nav > a:hover{
